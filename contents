@@ -1,0 +1,14 @@
+{
+ "Name":{
+  "0":"Smith",
+  "1":"Jones"
+ },
+ "Location":{
+  "0":"North Syracuse, NY",
+  "1":"Cicero, NY"
+ },
+ "Hours":{
+  "0":"M-F 8a-5p",
+  "1":"M-Th 9a-4p"
+ }
+}
