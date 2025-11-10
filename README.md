@@ -10,6 +10,16 @@ Course Content for IST356
 
 ## Using the repository
 
+### Opening the Workspace in VS Code
+
+For the best experience, open the repository as a **workspace** in VS Code:
+
+1. In VS Code, go to **File** → **Open Workspace from File...**
+2. Navigate to the repository folder and select `ist356fall25.code-workspace`
+3. This will open all course folders (0-intro, 1-python, 2-ui, etc.) as separate folders in your workspace
+
+Alternatively, you can double-click the `ist356fall25.code-workspace` file to open it directly in VS Code.
+
 ### Student Information
 
 - As a public repository, you have permissions to pull code and get updates

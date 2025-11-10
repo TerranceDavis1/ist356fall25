@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"name": "0-intro - Course Introduction",
+			"path": "0-intro"
+		},
+		{
+			"name": "1-python - Python Fundamentals",
+			"path": "1-python"
+		},
+		{
+			"name": "2-ui - User Interfaces",
+			"path": "2-ui"
+		},
+		{
+			"name": "3-data - Data Processing",
+			"path": "3-data"
+		},
+		{
+			"name": "4-api - APIs",
+			"path": "4-api"
+		},
+		{
+			"name": "5-web - Web Development",
+			"path": "5-web"
+		},
+		{
+			"name": "6-viz - Visualization",
+			"path": "6-viz"
+		},
+		{
+			"name": "Root - Course Files",
+			"path": "."
+		}
+	],
+	"settings": {
+		"dbt.queryLimit": 500,
+		"python.testing.pytestArgs": [
+			"1-python/solutions/dateutils.py"
+		],
+		"python.testing.unittestEnabled": false,
+		"python.testing.pytestEnabled": true,
+		"files.exclude": {
+			"**/__pycache__": true,
+			"**/*.pyc": true,
+			"**/.pytest_cache": true
+		}
+	}
+}
